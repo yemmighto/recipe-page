@@ -1,0 +1,113 @@
+.bg-color {
+    background-color: hsl(30, 54%, 90%);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.background {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 650px;
+    height: 100%;
+    border-radius: 15px;
+    margin: auto;
+}
+
+img {
+    width: 590px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: "Young serif", sans-serif;
+    font-weight: 200;
+    margin-left: 30px;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+.preparation {
+    background-color: hsla(310, 100%, 51%, 0.079);
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 180px;
+    border-radius: 10px;
+}
+
+h4 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 20px;
+    color: hsl(332, 51%, 32%);
+    margin: auto;
+}
+
+li {
+    list-style-position: outside;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+.prep-id {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.prep {
+    font-weight: bolder;
+}
+
+.sub-title {
+    margin-left: 30px;
+    font-size: 25px;
+    line-height: 28px;
+}
+
+h3 {
+    color: hsl(14, 45%, 36%);
+    margin-top: 60px;
+}
+
+ol li {
+    list-style-position: outside;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+hr {
+    width: 590px;
+    margin-top: 30px;
+}
+
+.table-style {
+    width: 540px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.table-style td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tab-color {
+    color: hsl(14, 45%, 36%);
+    font-weight: 900;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
